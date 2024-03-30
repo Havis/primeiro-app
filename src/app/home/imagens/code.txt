@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Detalhes do Estudante
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-img src="caminho/para/sua/imagem.jpg"></ion-img> <!-- Adicione o caminho para sua imagem aqui -->
+    <ion-card-header>
+      <ion-card-subtitle>Turma:ADS0301M</ion-card-subtitle>
+      <ion-card-title>Lucas Paulino Moreira</ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content>
+      <p>Matrícula: 22103725</p>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
